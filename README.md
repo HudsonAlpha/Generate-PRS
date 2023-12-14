@@ -10,7 +10,7 @@ This Bash script is designed for processing a VCF file and generating a Polygeni
 - SLURM Workload Manager (for job memory and CPU allocation)
 
 ## Installation
-Ensure that all required software (bcftools, htslib, PLINK1.9, PLINK2) is installed on your system. If you're using a cluster environment, these might already be available as modules. Also, change hard coded paths to PLINK executables to your correct path. If you are using a different GWAS table, you may need to change the numbers for the score PLINK function to select the correct columns in this order <variant id> <effect allele> <effect size>.
+Ensure that all required software (bcftools, htslib, PLINK1.9, PLINK2) is installed on your system. If you're using a cluster environment, these might already be available as modules. Also, change hard coded paths to PLINK executables to your correct path. If you are using a different GWAS table, you may need to change the numbers for the score PLINK function to select the correct columns in this order (variant id) (effect allele) (effect size).
 
 ## Usage
 To run the script, provide it with two arguments: the input VCF file (compressed with .gz) and the GWAS table in text format. The VCF should be indexed as well.
