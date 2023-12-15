@@ -1,7 +1,7 @@
 # Generate-PRS
 
 ## Description
-This Bash script is designed for processing a VCF file and generating a Polygenic Risk Score (PRS) for each individual in the file. It filters VCF files based on a provided GWAS table, converts the filtered VCF to PLINK format, and calculates PRS (Polygenic Risk Scores) using PLINK.
+This Bash script is designed for processing a VCF file and generating a Polygenic Risk Score (PRS) for each individual in the file. It filters VCF files based on a provided GWAS table, converts the filtered VCF to PLINK format, and calculates PRS using PLINK.
 
 ## Requirements
 - bcftools
