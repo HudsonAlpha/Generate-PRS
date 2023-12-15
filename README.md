@@ -31,6 +31,7 @@ The script will output a tsv file containing two columns: id and prs. The file i
 
 ## References
 - Bellenguez, C., Küçükali, F., Jansen, I.E., et al. (2022). New insights into the genetic etiology of Alzheimer’s disease and related dementias. *Nature Genetics*, 54, 412-436. [https://doi.org/10.1038/s41588-022-01024-z](https://doi.org/10.1038/s41588-022-01024-z)
+- Petr Danecek, James K Bonfield, Jennifer Liddle, John Marshall, Valeriu Ohan, Martin O Pollard, Andrew Whitwham, Thomas Keane, Shane A McCarthy, Robert M Davies, Heng Li. "Twelve years of SAMtools and BCFtools." GigaScience, Volume 10, Issue 2, February 2021, giab008, [https://doi.org/10.1093/gigascience/giab008](https://doi.org/10.1093/gigascience/giab008)
 
 ## Contact
 For support or contributions, please contact me at:
