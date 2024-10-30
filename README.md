@@ -19,7 +19,7 @@ Ensure that all required software (bcftools, htslib, PLINK1.9, PLINK2) is instal
 To run the script, provide it with two arguments: the input VCF file (compressed with .gz) and the GWAS table in text format. The VCF should be indexed as well.
 
 ```bash
-./gwas_vcf_processor.sh <input_vcf>.vcf.gz <gwas_table>.txt
+./generate_prs.sh <input_vcf>.vcf.gz <gwas_table>.txt
 ```
 
 ## Arguments
